@@ -1,5 +1,6 @@
 0-merged
-data/
+data/**
+db/**
 list.d/
 results/
 .ipynb_checkpoints/
